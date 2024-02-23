@@ -1,0 +1,28 @@
+h1{
+    color: orangered;
+    font-size: 42px;
+}
+
+h2{
+    color: white;
+    font-size: 28px;
+}
+
+p{
+    color: white;
+    text-align: center;
+      
+}
+ul{
+    color: bisque;
+}
+li{
+    color: bisque;
+}
+
+.word {
+    width: 800px;
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    word-break: break-word
+}
